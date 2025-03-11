@@ -24,6 +24,13 @@ Este projeto foi desenvolvido para investigar os fatores que levam funcionários
 📌 A **falta de promoções** pode ser um fator crítico para o desligamento  
 📌 **Carga horária elevada** pode impactar diretamente a retenção de talentos  
 
+📌 Conclusão
+A estatística descritiva se mostrou essencial para identificar padrões e insights que podem ajudar empresas a tomar decisões estratégicas voltadas à retenção de funcionários.
+
+Se você tiver sugestões ou quiser contribuir com melhorias neste projeto, fique à vontade para abrir uma issue ou enviar um pull request! 🚀
+
+💬 Conecte-se comigo:(https://www.linkedin.com/in/felipe-souza-de-oliveira/)
+
 ## 📂 Estrutura do Projeto  
 
 ```bash
